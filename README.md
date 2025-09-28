@@ -1,10 +1,8 @@
-<img width="1536" height="1024" alt="ChatGPT Image Sep 29, 2025, 02_16_49 AM" src="https://github.com/user-attachments/assets/17e7065e-791d-473f-9066-cdbde083e32e" /># SecLog Lite 🛡️
+<img width="1536" height="1024" alt="ChatGPT Image Sep 29, 2025, 02_16_49 AM" src="https://github.com/user-attachments/assets/17e7065e-791d-473f-9066-cdbde083e32e" />
+
+# gwc-siem 🛡️
 
 A **mini‑SIEM** for home labs and Hacktoberfest contributions. Parses common logs (auth, nginx), detects simple security events (SSH brute force, HTTP 5xx bursts), stores alerts in SQLite, and exposes them via **FastAPI API**, **CLI**, and a **lightweight dashboard**.
-
-## Project Architecture
-
-<img width="1536" height="1024" alt="ChatGPT Image Sep 29, 2025, 02_16_49 AM" src="https://github.com/user-attachments/assets/55c09559-2c92-4eea-ab35-7e8dd416225d" />
 
 
 ---
@@ -25,8 +23,8 @@ A **mini‑SIEM** for home labs and Hacktoberfest contributions. Parses common l
 ### 1. Clone & setup
 
 ```bash
-git clone https://github.com/<your-username>/seclog-lite.git
-cd seclog-lite
+git clone https://github.com/<your-username>/gwc-siem.git
+cd gwc-siem-lite
 python -m venv .venv && source .venv/bin/activate
 pip install -e .
 ```
