@@ -101,6 +101,29 @@ See [SECURITY.md](SECURITY.md). For severe issues, disclose privately.
 
 ---
 
+
+
 ## 📄 License
 
-MIT © 2025 Grow With Code
+MIT © 2025 ghostmkg
+
+## 📢 Join Our Community
+This project is open for everyone. Whether you are a beginner or experienced coder, you are welcome to contribute. Let’s learn and grow together! 🌱
+
+
+Be a part of our growing community and stay connected 🚀  
+
+- 🗨️ [Join us on Discord](https://discord.gg/YMJp48qbwR)
+- 📢 [Join our Telegram](https://t.me/gwcacademy)
+- 💼 [Follow our LinkedIn Page](https://www.linkedin.com/company/gwc-academy/)  
+- 💬 [Join our WhatsApp Community](https://whatsapp.com/channel/0029ValnoT1CBtxNi4lt8h1s)
+- 📺 [Subscribe on YouTube](https://www.youtube.com/c/growwithcode?sub_confirmation=1)  
+- 🐦 [Follow on Twitter](https://x.com/goshwami_manish) 
+- 📸 [Follow on Instagram](https://www.instagram.com/grow_with_code)  
+
+
+## ☕ Support the Project
+<p>If you like this project and want to support future development, consider buying me a coffee:</p><br>
+<a href="https://www.buymeacoffee.com/mgoshwami1c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mgoshwami1c" ></a>
+  
+  <br><br/>
